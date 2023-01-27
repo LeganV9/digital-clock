@@ -24,10 +24,8 @@ p {
     color: pink;
     font-weight: bold;
     font-size: 35px;
-    position: absolute;
     text-align: center;
-    top: 60%;
-    left: 05%;
+    margin-top: 500px;
 }
 
 /*fireworks effetcts below*/
