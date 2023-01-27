@@ -6,9 +6,9 @@ function displayTime(){
     var session = document.getElementById('session');
 
     if(hrs >= 12) {
-        session.innerHTML = "PM";
+        session.innerHTML = 'PM';
     } else {
-        session.innerHTML = "AM";
+        session.innerHTML = 'AM';
     }
 
     document.getElementById('hours').innerHTML = hrs;
